@@ -87,15 +87,6 @@
             "impute_with": "custom",
             "impute_value": -2
           }
-        },
-        "species": {
-          "feature_name": "species",
-          "is_selected": true,
-          "feature_variable_type": "text",
-          "feature_details": {
-            "text_handling": "Tokenize and hash",
-            "hash_columns": 0
-          }
         }
       },
       "feature_generation": {
